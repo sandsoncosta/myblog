@@ -1,0 +1,6 @@
+main:
+  - name: Contact me
+    identifier: contact
+    url: /contact
+    params:
+      icon: '<i class="fas fa-fw fa-clipboard-question"></i>'
