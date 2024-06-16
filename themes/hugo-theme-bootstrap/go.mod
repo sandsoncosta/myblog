@@ -1,3 +1,3 @@
-module github.com/razonyang/hugo-theme-bootstrap
+module github.com/sandson/myblog
 
 go 1.17
